@@ -30,8 +30,7 @@ const Home = () => {
         facilitate parallel development, allowing teams to innovate rapidly
         without compromising code integrity. Moreover, Git's lightweight design
         and emphasis on data integrity make it a cornerstone of modern software
-        development, enabling teams to manage complexity and scale their
-        projects effectively.
+        development.
       </p>
     </div>
   );
