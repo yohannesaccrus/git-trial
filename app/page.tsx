@@ -17,9 +17,7 @@ const Home = () => {
         tested their resolve, but git log and git bisect empowered them to
         identify and conquer these adversaries swiftly. United by git push, they
         synchronized their efforts with remote collaborators, forging a
-        collaborative masterpiece that transcended individual contributions. In
-        Codeville, Git was not just a tool; it was the guardian that ensured
-        harmony and progress in their digital domain.
+        collaborative masterpiece that transcended individual contributions.
       </p>
     </div>
   );
