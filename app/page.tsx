@@ -10,9 +10,7 @@ const Home = () => {
         progress, immortalizing every line of code and idea.
       </p>
       <p>
-        In their quest for innovation, they branched out with git branch,
-        exploring new features and enhancements without fear of disrupting their
-        main project. When challenges arose, git merge brought their divergent
+        When challenges arose, git merge brought their divergent
         paths back together seamlessly. Amidst their journey, bugs occasionally
         tested their resolve, but git log and git bisect empowered them to
         identify and conquer these adversaries swiftly. United by git push, they
