@@ -4,7 +4,7 @@ import "milligram/dist/milligram.min.css";
 import "../public/style/index.scss";
 
 export const metadata = {
-  title: "Git Trial",
+  title: "Git Trial & Error",
 };
 
 export default function RootLayout({
