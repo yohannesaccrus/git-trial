@@ -9,12 +9,12 @@ const About = () => {
         odit, facere vel nostrum. Doloribus minima numquam explicabo vero,
         eveniet magni similique?
       </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
-        corrupti voluptates deserunt tenetur eligendi nisi sint corporis, dolor
-        dignissimos, nostrum vitae. Tempora neque, id debitis harum ex corrupti
-        culpa possimus?
-      </p>
+              <p>
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
+                                          corrupti voluptates deserunt tenetur eligendi nisi sint corporis, dolor
+                                          dignissimos, nostrum vitae. Tempora neque, id debitis harum ex corrupti
+                                          culpa possimus?
+                              </p>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic itaque
         optio perspiciatis illum facere quibusdam quas vel suscipit voluptatibus
