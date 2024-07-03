@@ -1,10 +1,10 @@
-import Head from "next/head";
+import Head from 'next/head';
 
-import "milligram/dist/milligram.min.css";
-import "../public/style/index.scss";
+import 'milligram/dist/milligram.min.css';
+import '../public/style/index.scss';
 
 export const metadata = {
-  title: "Git Trial",
+  title: 'Git Trial',
 };
 
 export default function RootLayout({
