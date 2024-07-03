@@ -1,12 +1,7 @@
-const Home = () => {
+const About = () => {
   return (
     <div className="page">
-      <h1>Git Trial</h1>
-      <p>
-        creating a sanctuary where their code could flourish. Each git add and
-        git commit captured their progress, immortalizing every line of code and
-        idea.
-      </p>
+      <h1>Git About</h1>
       <p>
         When challenges arose, git merge brought their divergent paths back
         together seamlessly. Amidst their journey, bugs occasionally tested
@@ -19,4 +14,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default About;
