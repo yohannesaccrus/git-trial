@@ -3,11 +3,9 @@ const Home = () => {
     <div className="page">
       <h1>Git Trial</h1>
       <p>
-        In the digital city of Codeville, developers wielded the power of Git, a
-        magical tool that governed their project's evolution. With git init,
-        they laid the foundation of their endeavors, creating a sanctuary where
-        their code could flourish. Each git add and git commit captured their
-        progress, immortalizing every line of code and idea.
+        creating a sanctuary where their code could flourish. Each git add and
+        git commit captured their progress, immortalizing every line of code and
+        idea.
       </p>
       <p>
         When challenges arose, git merge brought their divergent paths back
