@@ -15,6 +15,12 @@ const About = () => {
         dignissimos, nostrum vitae. Tempora neque, id debitis harum ex corrupti
         culpa possimus?
       </p>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic itaque
+        optio perspiciatis illum facere quibusdam quas vel suscipit voluptatibus
+        aliquid alias aut, totam sequi est rerum. Rerum sapiente quam
+        voluptatibus!
+      </p>
     </div>
   );
 };
