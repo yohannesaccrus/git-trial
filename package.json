@@ -10,7 +10,7 @@
     "prepare": "husky",
     "lint": "eslint .",
     "lint-fix": "eslint . --fix",
-    "postcommit": "echo Post commit hook executed"
+    "postcommit": "echo 'Post commit hook executed.'"
   },
   "dependencies": {
     "milligram": "^1.4.1",
@@ -39,7 +39,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "post-commit": "yarn postcommit"
+      "post-commit": "yarn run postcommit"
     }
   }
 }
