@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prepare": "husky"
+    "prepare": "husky",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
   },
   "dependencies": {
     "milligram": "^1.4.1",
@@ -19,6 +21,8 @@
     "@types/node": "^20.14.8",
     "@types/react": "^18.3.3",
     "eslint": "^9.6.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.7",
     "prettier": "^3.3.2",
@@ -26,8 +30,14 @@
     "typescript": "^5.5.2"
   },
   "lint-staged": {
-    "*.{js,ts,jsx,tsx,json,css,md}": [
-      "prettier --write"
+    "*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "git add"
     ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
