@@ -1,0 +1,22 @@
+const About = () => {
+  return (
+    <div className="page">
+      <h1>Git Trial 2</h1>
+      <p>This is about page</p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
+        consequuntur nesciunt animi a earum, possimus ratione expedita quod
+        odit, facere vel nostrum. Doloribus minima numquam explicabo vero,
+        eveniet magni similique?
+      </p>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic itaque
+        optio perspiciatis illum facere quibusdam quas vel suscipit voluptatibus
+        aliquid alias aut, totam sequi est rerum. Rerum sapiente quam
+        voluptatibus!
+      </p>
+    </div>
+  );
+};
+
+export default About;
